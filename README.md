@@ -1,5 +1,5 @@
-<h2 align="center">Welcome to my repo! My name is Adam </h2>
-<br><em>With a passion towards creativity and freedom, I have chose the path of a coder, whether that be software engineering, front-end, start-up, I am always excited to work. I bring a unique blend of leadership, creativity and interpersonability. From leading the fencing team as a captain, to cooperating with schools and other companies to increase outreach for a start-up company, I combine my passion for creativity and communication to further the impact that a coder will have within the company. Through the convergence of technology, communication, and psychology, I strive to create impactful and admired experiences/applications that resonate with audiences and drive data-informed decision-making.</em>
+<h2 align="center">Welcome to my repo! My name is Adam 👋</h2>
+<br><em>With a passion towards creativity and freedom, I have chose the path of a coder, whether that be software engineering, front-end, start-up, I am always excited to work. From leading a sports team as a captain, to cooperating with schools and other companies to increase outreach for a start-up company, I combine my passion for creativity and communication to further the impact that a coder will have within the company. I strive to create an impactful and admirable experience/application that resonates with its audiences.</em>
 
 <!-- ### My projects:  -->
 

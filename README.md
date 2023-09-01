@@ -18,4 +18,4 @@
     <li>LinkedIn: https://www.linkedin.com/in/adam-yang-4us/ </li> 
     <li>Website: https://adamyang.netlify.app/</li>
 </ul>
-<h3>I am always open to coding suggestions/feedback! (I am still learning and would love to hear your thoughts)</h3>
+<h3><em>I am always open to coding suggestions/feedback! (I am still learning and would love to hear your thoughts)</em></h3>

@@ -10,7 +10,7 @@
 <br>[![My Skills](https://skillicons.dev/icons?i=docker,discord,wordpress,github,figma,vscode,postgresql,terminal,ubuntu,windows)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yangit&layout=compact" alt="Coding-stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-lang/?username=yangit&layout=compact" alt="Coding-stats"/>
 </a>
 
 ### Contact me: 

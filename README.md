@@ -10,7 +10,7 @@
 <br>[![My Skills](https://skillicons.dev/icons?i=docker,discord,wordpress,github,figma,vscode,postgresql,terminal,ubuntu,windows)](https://skillicons.dev)
 
 <a href="https://github.com/ayang21">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayang21&layout=compact&card_width=300" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayang21&layout=compact&card_width=200" />
 </a>
 
 ### Contact me: 

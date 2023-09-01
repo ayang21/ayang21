@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2 align="center">Welcome to my repo! My name is Adam 👋</h2>
+<br><em>With a passion towards creativity and freedom, I have chose the path of a coder, whether that be software engineering, front-end, start-up, I am always excited to work. From leading a sports team as a captain, to cooperating with schools and other companies to increase outreach for a start-up company, I combine my passion for creativity and communication to further the impact that a coder will have within the company. I strive to create an impactful and admirable experience/application that resonates with its audiences.</em>
 
-<!--
-**ayang21/ayang21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### My projects:  -->
 
-Here are some ideas to get you started:
+### Languages and frameworks: 
+<br> [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,py,c,java,git,latex,r,vim)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools:
+<br>[![My Skills](https://skillicons.dev/icons?i=docker,discord,wordpress,github,figma,vscode,postgresql,terminal,ubuntu,windows)](https://skillicons.dev)
+
+<a href="https://github.com/ayang21">
+  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayang21&layout=compact&card_width=100" />
+</a>
+
+### Contact me: 
+<ul>
+    <li>LinkedIn: https://www.linkedin.com/in/adam-yang-4us/ </li> 
+    <li>Website: https://adamyang.netlify.app/</li>
+</ul>
+<h3><em>I am always open to coding suggestions/feedback! (I am still learning and would love to hear your thoughts)</em></h3>

@@ -7,7 +7,7 @@
 <br> [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,py,c,java,git,latex,r,vim)](https://skillicons.dev)
 
 ### Tools:
-<br>[![My Skills](https://skillicons.dev/icons?i=docker,discord,wordpress,github,figma,vscode,postgresql,terminal,ubuntu,windows)](https://skillicons.dev)
+<br>[![My Skills](https://skillicons.dev/icons?i=docker,discord,wordpress,github,figma,vscode,postgresql,ubuntu)](https://skillicons.dev)
 
 <!-- <a href="https://github.com/ayang21">
   <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayang21&layout=compact&card_width=100" />
